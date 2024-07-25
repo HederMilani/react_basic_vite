@@ -1,8 +1,8 @@
 import React from "react";
-import ExercicioUm from "./exercicioUm/ExercicioUm.jsx";
-import ExercicioDois from "./ExecicioDois/ExercicioDois.jsx";
+import ExercicioUm from "./ExercicioUm/ExercicioUm.jsx";
+import ExercicioDois from "./ExercicioDois/ExercicioDois.jsx";
 import Header from "./Header.jsx";
-import ExercicioTres from "./ExecicioTres/ExercicioTres.jsx";
+import ExercicioTres from "./ExercicioTres/ExercicioTres.jsx";
 import ExercicioQuatro from "./ExercicioQuatro/ExercicioQuatro.jsx";
 
 const App = () => {
