@@ -1,9 +1,9 @@
 import React from "react";
-import ExercicioUm from "./ExercicioUm/ExercicioUm.jsx";
-import ExercicioDois from "./ExercicioDois/ExercicioDois.jsx";
+import ExercicioUm from "./Exercicio001/ExercicioUm.jsx";
+import ExercicioDois from "./Exercicio002/ExercicioDois.jsx";
 import Header from "./Header.jsx";
-import ExercicioTres from "./ExercicioTres/ExercicioTres.jsx";
-import ExercicioQuatro from "./ExercicioQuatro/ExercicioQuatro.jsx";
+import ExercicioTres from "./Exercicio003/ExercicioTres.jsx";
+import ExercicioQuatro from "./Exercicio004/ExercicioQuatro.jsx";
 import ExercicioCinco from "./Exercicio005/ExercicioCinco.jsx";
 
 const App = () => {

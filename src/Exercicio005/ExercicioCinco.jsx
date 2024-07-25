@@ -1,5 +1,5 @@
 import React from "react";
-import Dados from "../ExercicioQuatro/Dados.jsx";
+import Dados from "../Exercicio004/Dados.jsx";
 
 function ExercicioCinco(props) {
   const [produto, setProduto] = React.useState(null);
